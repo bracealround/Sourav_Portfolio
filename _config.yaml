@@ -1,8 +1,8 @@
-baseURL: https://hugo-toha.github.io
+# baseURL: https://hugo-toha.github.io
 
-languageCode: en-us
-title: "Arnab"
-theme: "toha"
+# languageCode: en-us
+# title: "Arnab"
+theme: "https://hugo-toha.github.io/toha"
 
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
