@@ -1,0 +1,49 @@
+# section information
+section:
+  name: Publications
+  id: publications
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# Your accomplishments
+accomplishments:
+- name: Challenges in Tracking the Risk of COVID-19 in Bangladesh; Evaluation of A Novel Method
+  timeline: "August 15, 2021"
+  organization:
+    name: Data-driven Humanitarian Mapping, KDD 2021
+    url: https://kdd-humanitarian-mapping.herokuapp.com/
+  citation: Md. Enamul Hoque, Md. Shariful Islam, <b><i>Arnab Sen Sharma</i></b>, Rashedul Islam,and Mohammad Ruhul Amin. 2021. "Challenges in Tracking the Risk of COVID-19 in Bangladesh; Evaluation of A Novel Method". In Proceedings of August 15 (KDD Workshop on Data-driven Humanitarian Mapping, 27th ACM SIGKDD Conference). ACM, New York, NY, USA.
+  publicationURL: "https://www.medrxiv.org/node/391340.external-links.html"
+  talkURL: "https://drive.google.com/file/d/16RG24niUCnwoYl6iDJf2w4YY-y2cc2Ob/view"
+
+- name: Automatic Detection of Satire in Bangla Documents; A CNN Approach Based on Hybrid Feature Extraction Model
+  timeline: "27-28 September 2019"
+  organization:
+    name: International Conference on Bangla Speech and Language Processing (ICBSLP)
+    url: https://ieeexplore.ieee.org/xpl/conhome/9081812/proceeding
+  citation: <b><i>A. S. Sharma</i></b>, M. A. Mridul and M. S. Islam, "Automatic Detection of Satire in Bangla Documents; A CNN Approach Based on Hybrid Feature Extraction Model", 2019 International Conference on Bangla Speech and Language Processing (ICBSLP), Sylhet, Bangladesh, 2019, pp. 1-5, doi:10.1109/ICBSLP47725.2019.201517. <b>[IEEE Best Paper Award, awarded by ICBSLP, 2019]</b>
+  publicationURL: "https://ieeexplore.ieee.org/document/9084038"
+  # talkURL: "https://drive.google.com/file/d/16RG24niUCnwoYl6iDJf2w4YY-y2cc2Ob/view"
+
+- name: A Deep CNN Model for Student Learning Pedagogy Detection Data Collection Using OCR
+  timeline: "21-22 September 2018"
+  organization:
+    name: International Conference on Speech and Language Processing (ICBSLP)
+    url: https://ieeexplore.ieee.org/xpl/conhome/8537873/proceeding
+  citation: <b><i>A. Sen Sharma</i></b>, M. Ahmed Mridul, M. Jannat and M. Saiful Islam, "A Deep CNN Model for Student Learning Pedagogy Detection Data Collection Using OCR," 2018 International Conference on Bangla Speech and Language Processing (ICBSLP), Sylhet, 2018, pp. 1-6, doi:10.1109/ICBSLP.2018.8554701.
+  publicationURL: "https://ieeexplore.ieee.org/document/8554701"
+  # talkURL: "https://drive.google.com/file/d/16RG24niUCnwoYl6iDJf2w4YY-y2cc2Ob/view"
+
+# - name: Challenges in Tracking the Risk of COVID-19 in Bangladesh; Evaluation of A Novel Method
+#   timeline: "August 15, 2021"
+#   organization:
+#     name: Data-driven Humanitarian Mapping, KDD 2021
+#     url: https://kdd-humanitarian-mapping.herokuapp.com/
+#   citation: Md. Enamul Hoque, Md. Shariful Islam, <b><i>Arnab Sen Sharma</i></b>, Rashedul Islam,and Mohammad Ruhul Amin. 2021. "Challenges in Tracking the Risk of COVID-19 in Bangladesh; Evaluation of A Novel Method". In Proceedings of August 15 (KDD Workshop on Data-driven Humanitarian Mapping, 27th ACM SIGKDD Conference). ACM, New York, NY, USA.
+#   publicationURL: "https://www.medrxiv.org/node/391340.external-links.html"
+#   talkURL: "https://drive.google.com/file/d/16RG24niUCnwoYl6iDJf2w4YY-y2cc2Ob/view"
+

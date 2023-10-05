@@ -1,0 +1,80 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Department of Computer Science and Engineering, Shahjalal University of Science and Technology
+    url: "https://www.sust.edu/d/cse"
+    location: Sylhet
+    # company overview
+    overview: My faculty profile is available at https://www.sust.edu/d/cse/faculty-profile-detail/700.
+  positions:
+  - designation: Lecturer
+    start: July, 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    # - Courses taken include <i>Software Engineering and Design Patterns</i> (CSE 331-332), Database Management Systems (CSE 333-334), Web Technologies (CSE 446), Introduction to Programming - Python (CSE 119_), Introduction to Computing Applications (CSE 202_)
+    -   Taught courses include,
+        <ul>
+            <li>Software Engineering and Design Patterns (CSE 331-332)</li>
+            <li>Database Management Systems (CSE 333-334)</li>
+            <li>Web Technologies (CSE 446)</li>
+            <li>Introduction to Programming - Python (CSE 119_)</li>
+            <li>Introduction to Computing Applications (CSE 202_)</li>
+        </ul>
+    - Served as a member of <i>Undergrad Final Year Thesis/Project Evaluation Committee</i>, Session 2019‐20, 2020‐21
+    # - Lead backend team.
+
+  # - designation: Junior Software Engineer
+  #   start: Nov 2017
+  #   end: Oct 2019
+  #   responsibilities:
+  #   - Implement and test xyz feature for abc tool.
+  #   - Support client for abc tool.
+  #   - Learn k,d,w technology for xyz.
+
+- company:
+    name: Natural Language Processing research groups, SUST
+    # url: "https://www.example.com"
+    location: Sylhet
+    # overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+  positions:
+  - designation: Research Associate
+    start: August, 2019
+    # end: May 2017
+    responsibilities:
+    - Member of a panel that wrote a project proposal entitled ”A BiLSTM based Deep Learning Approach for Hate Speech Detection in Bangla Text and a Benchmark Dataset for Hate Speech in Bangla”. The proposed project won a research grant worth 2,30,000 BDT from SUST Research Centre (Project ID; AS/2020/1/26).
+    - Advising undergrad students who are conducting research in Data Science and Machine Learning related domains.
+    - Conducted workshops on basic Data‐Science and Machine Learning to train up undergrad students of CSE department, SUST for their final year research work.
+
+- company:
+    name: Samsung R&D Institute, Bangladesh
+    url: "https://research.samsung.com/srbd"
+    location: Dhaka
+    # overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+  positions:
+  - designation: Software Engineer I
+    start: August, 2018
+    end: July, 2019
+    responsibilities:
+    - Worked on a Robot Simulation Project. 
+      <ul>
+        <li>Coded the core features of Object Detection and Recognition module of the robot using <b>YOLO</b> library</li>
+        <li>Baby-Crying sound detection on Android devices using <b>Tensorflow-lite</b></li>
+      </ul>
+    - Implemented some features of Chromium-efl for Tizen wearable (c++).
+    - Designed and developed apps for Android platform (java).
+    - Designed and developed apps for Tizen platform (c++).
+    - Built sensor data collection apps for Android Smartphones and Tizen watches.
+    - Research on unique gesture detection on Android Smartphones and Tizen watches.
+
